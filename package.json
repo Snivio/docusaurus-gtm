@@ -1,0 +1,27 @@
+{
+  "name": "docusaurus-gtm",
+  "version": "1.0.3",
+  "description": "This docusaurus plugin Adds a Google Tag Manager script and noscript html tag to your docusaurus site.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Snivio/docusaurus-gtm.git"
+  },
+  "keywords": [
+    "docusaurus",
+    "gtm",
+    "google",
+    "tag",
+    "manager",
+    "plugin"
+  ],
+  "author": "Snivio Braganca <sniviobraganca5@gmail.com> (https://snivio.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Snivio/docusaurus-gtm/issues"
+  },
+  "homepage": "https://github.com/Snivio/docusaurus-gtm#readme"
+}
